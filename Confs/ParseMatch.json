@@ -1,0 +1,11 @@
+{
+  "Name": ["title"],
+  "Domain/Topic":["notes","title"],
+  "DataFormat":["notes","title"],
+  "Language":["notes"],
+  "Accessibility":["isopen","private"],
+  "Statistics":["num_tags","num_resources","version","notes"],
+  "Provenance": ["org_title", "org_name","notes"],
+  "Temporal":["title","notes"],
+  "Geospatial":["title","notes"]
+}

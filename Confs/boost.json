@@ -1,0 +1,32 @@
+//权重相加=10
+{ "local_id": 0,
+  "license_title": 0.1,
+  "maintainer": 0.2,
+  "maintainer_email": 0,
+  "metadata_created": 0.05,  //2019-02-27T12:27:15.686853
+  "metadata_modified": 0.05,
+  "author": 0.8,
+  "author_email": 0,
+  "state": 0,   //active等
+  "version": 0, //version基本为空
+  "type":  0,
+  "url": 0,
+  "notes": 2.05,
+  "owner_org": 0, //5107fb38-f013-41bc-b6d9-80e63c333796
+  "title": 2.15,
+  "org_description": 0.3,  //只部分有，且乱
+  "org_created": 0,
+  "org_title": 1,
+  "org_name": 0.6,
+  "org_is_organization": 0,
+  "org_state": 0,
+  "org_image_url": 0,
+  "org_type": 0, //organization等
+  "org_approval_status": 0, //approved等
+  "private": 0.15,
+  "num_tags": 0,
+  "num_resources": 0,
+  "isopen": 0.15,  //会有isopen和private不对应的情况
+  "data_source": 0.1,  //数据来源
+  "content":2.25}
+

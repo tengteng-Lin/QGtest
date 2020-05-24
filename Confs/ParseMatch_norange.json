@@ -1,0 +1,9 @@
+{
+  "Name": ["title"],
+  "Domain/Topic":["notes","title"],
+  "DataFormat":["notes","title"],
+  "Language":["notes"],
+  "Provenance": ["org_title", "org_name","notes"],
+  "Temporal":["title","notes"],
+  "Geospatial":["title","notes"]
+}
